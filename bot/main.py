@@ -125,4 +125,4 @@ async def update_bank(user, change=0, mode="wallet"):
     bal = [users[str(user.id)]["wallet"], users[str(user.id)]["bank"]]
     return bal
 
-client.run('ODk4ODI4NzE4MDMyNjk1Mjk2.YWp5eQ.Pw0cdTIqvVaEwA5zlmf_CcGCR-I')
+client.run('ODk4ODI4NzE4MDMyNjk1Mjk2.YWp5eQ.d7yMrNzV_iFrCbQIuYsj9LWRVvc')
